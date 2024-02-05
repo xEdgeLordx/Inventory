@@ -1,0 +1,31 @@
+.inv {
+    display: flex;
+    background-color: black;
+    height: 400px;
+    width: 1000px;
+    justify-content: space-around;
+}
+
+.slot {
+    background-color: gray;
+    height: 200px;
+    width: 200px;
+    margin-top: 10%;
+    display: flex;
+    justify-content: center;
+}
+
+.item {
+    background-color: red;
+    height: 50px;
+    width: 50px;
+    margin: 10px;
+}
+
+.button {
+    background-color: brown;
+    border: none;
+    margin-top: 18%;
+    height: 50px;
+    font-size: 25px;
+}
